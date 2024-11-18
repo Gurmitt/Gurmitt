@@ -13,4 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![repo size](https://imp.shields.io/github/repo-size/Gurmitt/SSJ302_Final_Project)
+[![repo size](https://img.shields.io/github/repo-size/Gurmitt/SSJ302-Final-Project)
+
+
